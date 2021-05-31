@@ -14,5 +14,7 @@ You can add in Markdown many things like:
 
 To know more about what you can add please click on the [link](https://guides.github.com/features/mastering-markdown/)
 
-Thank you :+1: 
-:+1: 
+
+
+Thank you     :+1: 
+ 
