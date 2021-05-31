@@ -5,7 +5,7 @@ To discover more about Github press on the [link](https://pages.github.com/)
 - HTML
 - Markdown
 ## Markdown: It's a lightweight markup language we know it by using the symbol {#}
-You can add in Markdown manythings like:
+You can add in Markdown many things like:
 1. Styling text
 2. Quoting text
 3. Images
