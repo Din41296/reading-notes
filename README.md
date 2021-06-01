@@ -5,7 +5,7 @@
 ## **Table of Content**
  | Read01| [link](Read01.md)|
 |--------|-------:|
-| Read02    | [link](Read02.md)  |
+| Read02 | [link](Read02.md)|
 
  ### Thank you 😄 
 
