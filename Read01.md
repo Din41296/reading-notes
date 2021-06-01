@@ -16,5 +16,5 @@ To know more about what you can add please click on the [link](https://guides.gi
 
 
 
-Thank you     :+1: 
+Thank you     😄 
  
