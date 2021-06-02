@@ -44,15 +44,22 @@ Types of tags:
 
 *Examples Semantic in HTML*
 
-<h1>: is a semantic element
+ *<h1>: is a semantic element* 
 
-you can find another informations through thesse links
+you can find another informations through these links:
+
 
 1. [link](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/#4-the-best-tools-for-wireframing)
 
+
+
 2. [link1](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
+
+
 3. [link2](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+
 
 4. [link3](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
