@@ -52,9 +52,9 @@ you can find another informations through thesse links
 
 2. [link1](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
-3.[link2](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+3. [link2](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-4.[link3](https://developer.mozilla.org/en-US/docs/Web/HTML)
+4. [link3](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 
 

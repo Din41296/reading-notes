@@ -4,14 +4,15 @@
 
 It's the same as [GitHub](github.com) but it's locally, so you can clone your repositories from Github to get and make whatever you want.
 
-The cloning can be done with few steps:
+
+### Cloning can be done with few steps:
 
 1. Open GitHub
 2. Visit your GitHub profile and create a repository
 3. Then click on the code button
 4. Copy the link
 
-Edits can be done by using Terminal or VS code, for this stage we used [replit](replit.com) throughout shell , Also we can use commands to help us while editing like:
+ Edits can be done by using Terminal or VS code, for this stage we used [replit](replit.com) throughout shell , Also we can use commands to help us while editing like:
 
 - $ cd : is To change direction.
 - $ mkdir : Make directory {Create new Folder}
