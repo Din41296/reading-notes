@@ -13,7 +13,13 @@ Types of tags:
 
 ### Anatomy of HTML
 
+
+
 ![Img](Anatomy of an HTML document.PNG)
+
+
+
+
 
 
 
@@ -34,7 +40,7 @@ Types of tags:
 - In vision: to get a straight feedback from team and users
 - Wireframe.cc: Provides the technology
 
-**When building a wireframe you must have these points in your mind:
+**When building a wireframe you must have these points in your mind:**
 
 1. Clarity
 2. Confidence
