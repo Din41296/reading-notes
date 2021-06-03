@@ -1,4 +1,4 @@
-# **JavaScriptT**
+# **JavaScript**
 ## *JavaScript is a programming, scripting, and dynamic language.*
 
 - We use it to make the webpage interactive with the users.
