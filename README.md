@@ -26,8 +26,7 @@
 
 
 
-<<<<<<< HEAD:Code 102/README.md
-=======
+
 
 
 
@@ -50,7 +49,7 @@
 | Class15 | |
 
 
->>>>>>> 58760aa981044217e54ef614c4bf9b12f362b67e:README.md
+
 ### Thank you 😄 
 
 
