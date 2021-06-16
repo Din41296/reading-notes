@@ -19,7 +19,7 @@
 | Read04 | [Read04](READ04.md)|
 | Read06 | [Read06](READ06.md)|
 | Read07 | [Read07](READ07.md)|
-| Read08 | [Read08](READ06.md)|
+| Read08 | [Read08](READ08.md)|
 
 
 
