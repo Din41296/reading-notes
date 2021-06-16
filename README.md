@@ -33,7 +33,7 @@
  | Assignments| Links|
 |--------|-------:|
 | README| [link](README.md)|
-| Class01 | |
+| Class01 |[Class01](Class01.md) |
 | Class02 | |
 | Class03 | |
 | Class04 | |
@@ -48,6 +48,7 @@
 | Class14 | |
 | Class15 | |
 
- ### Thank you 😄 
+
+### Thank you 😄 
 
 
