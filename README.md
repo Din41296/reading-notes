@@ -33,7 +33,7 @@
  | Assignments| Links|
 |--------|-------:|
 | README| [link](README.md)|
-| Class01 |[Class01](Class01.md) |
+| Class01 |[Class01](https://replit.com/@Dina96/reading-notes#Code 201/Class01.md) |
 | Class02 | [Class02](Class01.md)|
 | Class03 | [Class03](Class01.md)|
 | Class04 |[Class04](Class01.md) |
