@@ -2,7 +2,7 @@
 
 ##  *Introduction : Hello, My name is Dina Muasher I'm 24 years old, I'm a civil engineer who graduated from the University of Jordan, I'm working on windows edition :10 pro with version : 20H2,I'm so excited in this class because there's a lot of challenges in it.*
 
-## **Table of Content**
+## **Code 102 Reading notes**
 
 
 
@@ -19,11 +19,34 @@
 | Read04 | [Read04](READ04.md)|
 | Read06 | [Read06](READ06.md)|
 | Read07 | [Read07](READ07.md)|
-| Read08 | [Read08](READ06.md)|
+| Read08 | [Read08](READ08.md)|
+
+
+
+## **Code 201 Reading notes**
 
 
 
 
+
+
+ | Assignments| Links|
+|--------|-------:|
+| README| [link](README.md)|
+| Class01 | |
+| Class02 | |
+| Class03 | |
+| Class04 | |
+| Class06 | |
+| Class07 | |
+| Class08 | |
+| Class09 | |
+| Class10 | |
+| Class11 | |
+| Class12 | |
+| Class13 | |
+| Class14 | |
+| Class15 | |
 
  ### Thank you 😄 
 
