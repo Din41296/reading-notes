@@ -35,7 +35,7 @@ Declarations are made up of two parts :
 
 # **Decisions and loops**
 Example for decision
-![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdhtmlx.com%2Fblog%2Fjavascript-decision-tree-visualization-tool-finding-solutions%2F&psig=AOvVaw3ClGTCHmQo0iMQaQpB6AGj&ust=1624303580610000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDv_ML4pvECFQAAAAAdAAAAABAD)
+![img](if statemment.PNG)
 
 types of loops:
 for loop : repeat the code for limited amount of time
