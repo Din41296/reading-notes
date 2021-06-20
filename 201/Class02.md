@@ -35,6 +35,8 @@ Declarations are made up of two parts :
 
 # **Decisions and loops**
 Example for decision
+
+
 ![img](img.PNG)
 
 types of loops:
