@@ -48,3 +48,13 @@ is a technique common to many agile work environment.
 -Pair programming invloves two roles:
  1. Driver: the programmer who is typing, driver manages text-editor, switching files, version control
  2. Navigator: guides the driver
+
+
+* Why do we use pair programming?
+  
+   1. Greater efficiency
+   2. Engaged collabration
+   3. Learning from fellow students
+   4. Social skills
+   5. Job interview readiness
+   6. Work environment readiness
