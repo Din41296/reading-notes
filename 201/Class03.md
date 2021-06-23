@@ -3,15 +3,15 @@
   
   - Ordered list: each item in it is numbered like when you write a set of steps for a recipe
 
-   ![img](ol.PNG)
+   ![img](img/ol.PNG)
 
   - Unordered list: lists that began with bullet point.
 
-    ![img](ul.PNG)
+    ![img](img/ul.PNG)
 
  - Definition list: to contain the term being defined
 
-    ![img](def.PNG)
+    ![img](img/def.PNG)
 
 
  - Nested list
@@ -40,7 +40,7 @@
 Example for decision
 
 
-![img](img.PNG)
+![img](img/img.PNG)
 
 types of loops:
  - for loop : repeat the code for limited amount of time

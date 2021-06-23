@@ -6,12 +6,12 @@
    2. Link pages in same website
    3. link parts in pages with each other
    4. Email links
-     ![img](mail.PNG)
+     ![img](img/mail.PNG)
    5. Opening links in a new window
    
 
 - We use this tag to link 
-  ![img](img1.PNG)
+  ![img](img/img1.PNG)
 
 
 # **Layout**
@@ -36,7 +36,7 @@
 # **Functions, methods, and objects.**
 
 - Functions: series of statements that have been grouped together because they perform a *SPECIFIC* task, functions act like a store.
-  ![link](fun.PNG)
+  ![link](img/fun.PNG)
 
 - Methods: same as function, but they're created inside an object.
 

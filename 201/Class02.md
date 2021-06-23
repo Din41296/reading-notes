@@ -37,7 +37,8 @@ Declarations are made up of two parts :
 Example for decision
 
 
-![img](img.PNG)
+![img](img/img.PNG)
+
 
 types of loops:
 for loop : repeat the code for limited amount of time

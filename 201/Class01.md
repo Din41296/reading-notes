@@ -30,7 +30,7 @@
 
 - An example of HTML:
 
-![image](Capture.PNG)
+![image](img/Capture.PNG)
 
 ## **JavaScript**
 
@@ -47,7 +47,7 @@
 
 
 - An example of JavaScript:
-![image](Capture1.PNG)
+![image](img/Capture1.PNG)
 
 ## *ABC programming*
  **A**:
