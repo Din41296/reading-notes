@@ -10,7 +10,9 @@
 
 - Two-dimensional transforms work on x and y axes (Horizontal and vertical axes)
 - Three-dimensional transforms work on both x and y axes also the z axis (length,width and depth)
-  ![img](img/2D.PNG)
+
+
+  ![img](2D.PNG)
 
 
 
