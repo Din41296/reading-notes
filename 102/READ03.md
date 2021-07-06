@@ -15,7 +15,7 @@ Types of tags:
 
 
 
-![Img](Anatomy of an HTML document.PNG)
+![Img](img/Anatomy of an HTML document.PNG)
 
 
 
